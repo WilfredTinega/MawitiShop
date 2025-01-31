@@ -3,7 +3,7 @@ import { assets } from '../assets/frontend_assets/assets'
 
 function Hero() {
   return (
-    <div className='flex flex-col border-gray-400 sm:flex-row '>
+    <div className='flex flex-col border border-gray-400 sm:flex-row '>
         {/* Hero left side */}
         <div className='w-full sm:w-1/2 flex items-center justify-center py-10 sm:py-0'>
             <div className='text-[#414141]'>
