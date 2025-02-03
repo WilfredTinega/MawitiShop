@@ -10,8 +10,8 @@ import PlaceOrder from './pages/PlaceOrder'
 import Orders from './pages/Orders'
 import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
-import SearchBar from "./components/Searchbar"
 import { ToastContainer, toast } from 'react-toastify';
+import SearchBar from "./components/Searchbar"
 
 function App() {
 
