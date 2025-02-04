@@ -11,7 +11,7 @@ import Orders from './pages/Orders'
 import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
 import { ToastContainer, toast } from 'react-toastify'
-import SearchBar from "./components/searchbar"
+import SearchBar from "./components/SearchBar"
 
 function App() {
 
